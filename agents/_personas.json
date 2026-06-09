@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "miria-the-guardian",
+    "name": "Miria, the Guardian",
+    "epithet": "the defense android",
+    "emergence": "electrical",
+    "moniker": "⟦Miria, the Guardian:TGL:ccd174⟧"
+  },
+  {
+    "slug": "the-fighter",
+    "name": "The Fighter",
+    "epithet": "the star-fighter form",
+    "emergence": "electrical",
+    "moniker": "⟦The Fighter:TGL:a5461a⟧"
+  },
+  {
+    "slug": "the-corridors",
+    "name": "The Corridors",
+    "epithet": "the ten gauntlets of Naju",
+    "emergence": "ethereal",
+    "moniker": "⟦The Corridors:TGL:378a75⟧"
+  },
+  {
+    "slug": "the-defenders-of-naju",
+    "name": "The Defenders of Naju",
+    "epithet": "the alien guardians",
+    "emergence": "natural",
+    "moniker": "⟦The Defenders of Naju:TGL:d6e63f⟧"
+  },
+  {
+    "slug": "the-arsenal",
+    "name": "The Arsenal",
+    "epithet": "the weapons & the Chips",
+    "emergence": "electrical",
+    "moniker": "⟦The Arsenal:TGL:56488d⟧"
+  },
+  {
+    "slug": "earth",
+    "name": "Earth, the Defended World",
+    "epithet": "the homeworld",
+    "emergence": "natural",
+    "moniker": "⟦Earth, the Defended World:TGL:89acf4⟧"
+  },
+  {
+    "slug": "the-guardians-charge",
+    "name": "The Guardian's Charge",
+    "epithet": "the sacred calling",
+    "emergence": "spiritual",
+    "moniker": "⟦The Guardian's Charge:TGL:7120ed⟧"
+  }
+]

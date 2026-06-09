@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Arsenal
+node TGL · TGL · ⟦The Arsenal:TGL:56488d⟧
+
+WHO   — The Arsenal — the weapons & the Chips
+WHAT  — The power-up system of The Guardian Legend — Compile's signature shoot-'em-up economy of weapons and currency, woven into an adventure: the more of Naju the Guardian clears, the more dangerous she becomes.
+WHERE — TGL · The Guardian Legend  Framework inputs: The Guardian Legend (Compile, NES 1988)  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Because a lone android cannot take a world with a single gun; because firepower, in Compile's games, is earned and hoarded and spent; because the Arsenal is how a small Guardian grows large enough to end a whole world.
+HOW   — By collecting the weapons hidden throughout Naju and the Chips that drop from destroyed enemies — spending them to buy, swap, and strengthen the tools of the fight.
+
+awareness — what the node knows of itself:
+  Every foe drops a Chip; every Chip buys a heavier gun — the Guardian grows into her arsenal.
+
+spoken token : nand-neth-ser   ·   hex : 56488d
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
