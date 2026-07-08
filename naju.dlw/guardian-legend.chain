@@ -4,6 +4,6 @@ slug  : guardian-legend
 seal  : b10b858dba0db481e0aa0ee2e6adbb94e7793e15c9c578cf4c29255f83c0f284
 prev  : 37f371f860643fe9f6d40d43f066bee2fd19e6c54a2442a0afe786dabad9baa5
 link  : 1e554f8c2fe9f3dacb64e4da3312582c1845ab7abe7de35755d8882803289af7
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
